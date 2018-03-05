@@ -1,0 +1,53 @@
+2018-03-05T04:31:51.838Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-05T04:31:51.854Z - normal: checking language setting...
+2018-03-05T04:31:51.854Z - normal: Language: zh
+2018-03-05T04:31:53.526Z - success: protocol editor-framework registered
+2018-03-05T04:31:53.526Z - success: protocol app registered
+2018-03-05T04:31:53.526Z - success: protocol theme registered
+2018-03-05T04:31:53.526Z - success: protocol packages registered
+2018-03-05T04:31:53.526Z - success: protocol unpack registerred
+2018-03-05T04:31:53.526Z - success: protocol disable-commonjs registerred
+2018-03-05T04:31:53.729Z - normal: connected!
+2018-03-05T04:31:53.745Z - normal: Check project E:\CCCproject\start_project\huaji
+2018-03-05T04:31:53.745Z - normal: Initializing Cocos2d
+2018-03-05T04:31:53.963Z - normal: Initializing Asset Database
+2018-03-05T04:31:53.995Z - success: protocol uuid registerred
+2018-03-05T04:31:53.995Z - success: protocol db registerred
+2018-03-05T04:31:53.995Z - success: protocol thumbnail registerred
+2018-03-05T04:31:53.995Z - normal: Loading editor/builtin packages
+2018-03-05T04:31:54.010Z - success: anysdk loaded
+2018-03-05T04:31:54.104Z - success: assets loaded
+2018-03-05T04:31:54.104Z - success: builder loaded
+2018-03-05T04:31:54.120Z - success: cocos-analytics loaded
+2018-03-05T04:31:54.120Z - success: console loaded
+2018-03-05T04:31:54.120Z - success: hierarchy loaded
+2018-03-05T04:31:54.120Z - success: inspector loaded
+2018-03-05T04:31:54.120Z - success: keystore loaded
+2018-03-05T04:31:54.120Z - success: node-library loaded
+2018-03-05T04:31:54.120Z - success: package-asset loaded
+2018-03-05T04:31:54.120Z - success: preferences loaded
+2018-03-05T04:31:54.135Z - success: project-exporter loaded
+2018-03-05T04:31:54.135Z - success: project-importer loaded
+2018-03-05T04:31:54.151Z - success: project-settings loaded
+2018-03-05T04:31:54.151Z - success: ui-kit loaded
+2018-03-05T04:31:54.151Z - success: ui-grid loaded
+2018-03-05T04:31:54.151Z - success: scene loaded
+2018-03-05T04:31:54.151Z - success: sprite-editor loaded
+2018-03-05T04:31:54.151Z - success: store loaded
+2018-03-05T04:31:54.151Z - success: timeline loaded
+2018-03-05T04:31:54.151Z - normal: Loading builtin packages
+2018-03-05T04:31:54.167Z - success: asset-db-debugger loaded
+2018-03-05T04:31:54.167Z - success: code-editor loaded
+2018-03-05T04:31:54.167Z - success: color-picker loaded
+2018-03-05T04:31:54.167Z - success: package-manager loaded
+2018-03-05T04:31:54.167Z - success: sdkbox loaded
+2018-03-05T04:31:54.167Z - success: tester loaded
+2018-03-05T04:31:54.167Z - success: ui-kit-preview-extra loaded
+2018-03-05T04:31:54.167Z - success: ui-kit-preview loaded
+2018-03-05T04:31:54.167Z - success: ui-tree loaded
+2018-03-05T04:31:55.057Z - normal: Initializing project E:\CCCproject\start_project\huaji
+2018-03-05T04:31:55.057Z - normal: Loading packages
+2018-03-05T04:31:55.073Z - normal: Watching packages
+2018-03-05T04:31:55.073Z - normal: Run Application
+2018-03-05T04:31:55.525Z - success: preview server running at http://localhost:7456
+2018-03-05T04:31:59.783Z - normal: 1.8.0

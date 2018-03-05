@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huaji",
+    "texture": "caff2b8e-e8c7-4a06-8bc2-3bbf39d4fafe",
+    "atlas": "",
+    "rect": [
+      21,
+      21,
+      456,
+      453
+    ],
+    "offset": [
+      -2,
+      3.5
+    ],
+    "originalSize": [
+      502,
+      502
+    ]
+  }
+}
